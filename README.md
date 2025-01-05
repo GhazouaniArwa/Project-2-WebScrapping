@@ -1,1 +1,0 @@
-The objective of your web scraping project is to convert a URL link from a web page into a dataset in CSV file format. This means that you want to extract data from a specific web page and store it in a CSV file for future use, using Beautiful Soup 4 and Requests.
