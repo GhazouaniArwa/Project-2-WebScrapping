@@ -1,22 +1,24 @@
-**Name Project : Extraction data from Specific Web Page in File CSV**
+**Name Project Web Scrapping : Extraction data from Specific Web Page in File CSV**
 
-**1 Objectif** 
+![image](https://github.com/user-attachments/assets/807daa76-d335-40a6-8d27-00f3e6833ecc)**1 Objectif** 
 
 convert a URL link from a web page into a dataset in CSV file format.
 This means that you want to extract data from a specific web page and store it in a CSV file for future use, using.
 
-**2 Library**
+![image](https://github.com/user-attachments/assets/0d0f570d-ccfb-4b01-ae9c-29cccaef5fae)**2 Library**
+
 Beautiful Soup 4
 Requests
 Pandas
 
-**3 Technology**
+![image](https://github.com/user-attachments/assets/7efcfd62-f0f6-464f-bff8-0acafbca0255)**3 Technology**
 Jupyter notebook
 
-**4 Format File**
+![image](https://github.com/user-attachments/assets/58436666-e813-438c-b96a-d58b563c64a9)**4 Format File**
 url : https://feeds.bbci.co.uk/news/rss.xml
 
-**5 Realization project**
+![image](https://github.com/user-attachments/assets/2a17c6d4-02d3-4590-a29d-0acc6a539322)**5 Realization project**
+
 
  ![image](https://github.com/user-attachments/assets/4b61d03b-bce5-4dc4-bea8-d52b7ddbf782) **a) Using Format File XML**
 
