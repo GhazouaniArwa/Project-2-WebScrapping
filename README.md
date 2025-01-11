@@ -18,8 +18,7 @@ url : https://feeds.bbci.co.uk/news/rss.xml
 
 **5 Realization project**
 
- ![image](https://github.com/user-attachments/assets/4b61d03b-bce5-4dc4-bea8-d52b7ddbf782)
- **a) Using Format File XML**
+ ![image](https://github.com/user-attachments/assets/4b61d03b-bce5-4dc4-bea8-d52b7ddbf782) **a) Using Format File XML**
 
 ![image](https://github.com/user-attachments/assets/25d1d8c0-b8a5-432e-9716-0c7d897c693e)
 
